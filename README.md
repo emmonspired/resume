@@ -1,6 +1,5 @@
 	 	 	
 # Dan Emmons
-Dan.Ryan.Emmons@gmail.com
 
 ## Tools (Software & Programming)
 
